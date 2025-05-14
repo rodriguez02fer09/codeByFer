@@ -542,18 +542,18 @@ span + span {
   margin-bottom: 1.3rem;
 }
 
-img.logo-udaff {
+img.logo-platzi {
   width: 20rem;
 }
 
-img.logo-platzi {
-  width: 12rem;
-  margin: 7rem 0 6rem 0;
+img.logo-digitalHouse {
+  width: 300px;
+  margin: 7rem 0;
 }
 
-img.logo-udemy {
-  width: 24rem;
-  margin: 5rem 0;
+img.logo-digitalHouse {
+  width: 300px;
+  margin: 7rem 0;
 }
 
 .cards--formacion p:nth-child(1) {
