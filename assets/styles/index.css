@@ -625,6 +625,10 @@ img.logo-digitalHouse {
 .container_imgCard--proyectos {
   margin-bottom: 1rem;
   border-radius: 20px 20px 0 0;
+  img {
+    width: 300px;
+    height: 200px;
+  }
 }
 
 .container_imgCard--proyectos img {
