@@ -548,12 +548,12 @@ img.logo-platzi {
 
 img.logo-digitalHouse {
   width: 300px;
-  margin: 7rem 0;
+  margin: 2rem 0;
 }
 
 img.logo-digitalHouse {
   width: 300px;
-  margin: 7rem 0;
+  margin: 2rem 0;
 }
 
 .cards--formacion p:nth-child(1) {
@@ -575,6 +575,10 @@ img.logo-digitalHouse {
 /* Proyectos */
 
 .proyectos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: var(--jet);
   width: 100%;
   height: auto;
